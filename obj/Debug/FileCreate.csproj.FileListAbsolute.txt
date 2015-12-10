@@ -1,0 +1,5 @@
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter14Labs\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter14Labs\Lab1\bin\Debug\Lab1.exe
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter14Labs\Lab1\bin\Debug\Lab1.pdb
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter14Labs\Lab1\obj\Debug\Lab1.exe
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter14Labs\Lab1\obj\Debug\Lab1.pdb
